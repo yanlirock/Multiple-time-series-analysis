@@ -11,3 +11,6 @@ http://dreamchallenges.org/tools/
 
 # Bayesian Network Repository
 http://www.cs.huji.ac.il/~galel/Repository/
+
+# bioconductor
+https://bioconductor.org/packages/release/bioc/html/GRENITS.html
