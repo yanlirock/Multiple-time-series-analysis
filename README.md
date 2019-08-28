@@ -17,3 +17,7 @@ https://bioconductor.org/packages/release/bioc/html/GRENITS.html
 
 # PCoE Datasets
 https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
+
+https://openmv.net
+
+http://www.timeseriesclassification.com/index.php
