@@ -21,3 +21,6 @@ https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
 https://openmv.net
 
 http://www.timeseriesclassification.com/index.php
+
+# Open Source dataset
+https://data.world
