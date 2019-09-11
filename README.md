@@ -26,7 +26,16 @@ http://www.timeseriesclassification.com/index.php
 https://data.world
 
 https://www.openml.org/search?type=data
+
+https://www.cs.colostate.edu/~skmishra/research.html
+
+https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int
+
 # event logs 
 https://www.usenix.org/cfdr
 
 https://crawdad.org/dartmouth/campus/20090909/
+
+https://hub.packtpub.com/25-datasets-deep-learning-iot/
+
+
