@@ -38,4 +38,6 @@ https://crawdad.org/dartmouth/campus/20090909/
 
 https://hub.packtpub.com/25-datasets-deep-learning-iot/
 
+https://github.com/openeventdata
+
 
