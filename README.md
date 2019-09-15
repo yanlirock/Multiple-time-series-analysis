@@ -38,6 +38,9 @@ https://crawdad.org/dartmouth/campus/20090909/
 
 https://hub.packtpub.com/25-datasets-deep-learning-iot/
 
+# 模型解释
+https://www.kaggle.com/dansbecker/shap-values
+
 https://github.com/openeventdata
 
 
