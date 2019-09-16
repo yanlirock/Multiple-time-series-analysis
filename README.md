@@ -43,5 +43,7 @@ https://github.com/openeventdata
 # 模型解释
 https://www.kaggle.com/dansbecker/shap-values
 
+https://www.kaggle.com/slundberg/interpreting-a-lightgbm-model
+
 
 
