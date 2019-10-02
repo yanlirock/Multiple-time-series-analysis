@@ -2,6 +2,9 @@
 
 http://www.afriheritage.org/TTT/2%20New%20Introduction%20to%20Multiple%20Time%20Series%20Analysis.pdf
 
+# causal discovery paper with code
+https://paperswithcode.com/task/causal-discovery
+
 
 # GCN slides
 http://tkipf.github.io/misc/SlidesCambridge.pdf
