@@ -1,5 +1,5 @@
 # time series distance
-file:///Users/yl.ll6993/Downloads/spiegel_stephan.pdf
+https://depositonce.tu-berlin.de/bitstream/11303/4916/2/spiegel_stephan.pdf
 
 # papers with code
 https://paperswithcode.com
