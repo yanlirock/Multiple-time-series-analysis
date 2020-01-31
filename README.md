@@ -1,3 +1,6 @@
+# time series distance
+file:///Users/yl.ll6993/Downloads/spiegel_stephan.pdf
+
 # papers with code
 https://paperswithcode.com
 
