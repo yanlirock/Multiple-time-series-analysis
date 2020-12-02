@@ -1,3 +1,6 @@
+# time series forcast
+https://robjhyndman.com/software/
+
 # time series distance
 https://depositonce.tu-berlin.de/bitstream/11303/4916/2/spiegel_stephan.pdf
 
